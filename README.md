@@ -2,11 +2,11 @@
 
 A personal script to convert an excel workbook into postgresql statements that generate ag-grid-spreadsheet compatible tables
 
-Caution: SQL statements are a little outdates for ag-grid-spreadsheet, bu the parsing logic is still correct
+Caution: SQL statements are a little outdated for ag-grid-spreadsheet, but the parsing logic is still correct
 
 # Prerequisites
 
-pandas library installed, likely using anaconda
+* pandas library installed, likely using anaconda
 
 ## Authors
 
